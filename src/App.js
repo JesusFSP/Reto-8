@@ -8,8 +8,8 @@ import Form from './components/Form'
 function App() {
 
   const routeLinks = [
+    { href: '#skills', title: 'Inicio', content: 'Inicio' },
     { href: '#projects', title: 'Especialidades', content: 'Especialidades' },
-    { href: '#skills', title: 'Doctores', content: 'Doctores' },
     { href: '#contact', title: 'Contacto', content: 'Contacto' }
   ];
   const socialNetworks = [
@@ -27,7 +27,7 @@ function App() {
       />
       <main>
         <Hero />
-        <Article id="projects"/>
+        <Article/>
         <Form />
       </main>
       <footer>

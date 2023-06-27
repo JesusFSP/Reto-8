@@ -9,9 +9,9 @@ const Header = ({ routeLinks, socialNetworks }) => {
     }
 
     return (
-        <header className="header">
+        <header className="header" >
             <nav className="nav">
-                <div className="container flexbox flexbox--header">
+                <div className="container flexbox flexbox--header" id="skills">
                     <a href="#hero">
                         <img src='https://i.postimg.cc/cJDFTJRy/logo-vet.jpg' alt="" width={64} height={64} className="img img--logo" />
                     </a>

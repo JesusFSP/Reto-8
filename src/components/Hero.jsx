@@ -1,7 +1,7 @@
 
 const Hero = () => {
     return (
-        <article className="hero">
+        <article className="hero" id="skills">
             <img src="https://i.postimg.cc/MTNd2r39/fondo-vet.jpg" alt="Fondo de portada" className="img img--background" />
             <div className="container g-layout g-layout--center md:g-layout--1-1 gap-md">
                 <div className="card" style={{ position: 'relative' }}>
