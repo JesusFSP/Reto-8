@@ -1,6 +1,6 @@
 const Article = () => {
     return ( 
-        <section className="section">
+        <section className="section" id="projects">
             <img src="https://i.postimg.cc/dQgjRjtw/flyer.jpg" alt="Fondo de portada" className="img section--background"/>
             <div className="container g-layout g-layout--center md:g-layout--1-1 gap-md">
                 <div className="article" >

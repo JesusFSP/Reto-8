@@ -36,7 +36,7 @@ const Form = () => {
 
   return (
     <>
-      <section className="form">
+      <section className="form" id="contact">
         <div className="container g-layout g-layout--center md:g-layout--1-1 gap-md">
           <div className="formulario g-layout g-layout--center gap-md">
             <h1>Reserve su Cita</h1>

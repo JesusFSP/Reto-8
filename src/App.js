@@ -27,7 +27,7 @@ function App() {
       />
       <main>
         <Hero />
-        <Article />
+        <Article id="projects"/>
         <Form />
       </main>
       <footer>
